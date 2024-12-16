@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>RK CONCEPTS</title>
+</head>
+<body>
+    <title>RK CONCEPTS</title>
+    <h1 style="text-align: center;color:crimson;font-family: Georgia, 'Times New Roman', Times, serif;">Navrachna University CSE 1st Year (Semester 2) Time Table </h1>
+    <style>
+        th,td {border-color: rgb(173, 173, 192);
+        border-collapse: collapse;
+     border: 1px solid black;}
+    </style>
+    <h2>
+    <table>
+      
+<tr>
+    <th>TIME</th>
+    <th>Particular</th>
+<th>MONDAY  </th>
+<th>  TUESDAY  </th>
+<th>WEDNESDAY</th>
+<th>THURSDAY</th>
+<th>FRIDAY</th>
+<th>SATURDAY</th>
+<th>SUNDAY</th>
+</tr>
+
+<tr>
+ <td> 10.00 TO 11.00</td>
+ 
+<td rowspan="2"> DLD</td>
+<td rowspan="3">EG LAB</td>
+<td> ----</td>
+<td> ----</td>
+<td> MATHS </td>
+<td rowspan="7"> HOLIDAY</td>
+<td rowspan="7"> HOLIDAY </td>
+</tr>  
+<tr>
+    <td> 11.00 TO 12.00</td>
+   <td rowspan="2"> PYTHON LAB</td>
+   <td> ---- </td>
+   <td> PYTHON </td>
+   </tr>  
+   <tr>
+    <td> 12.00 TO 1.00</td>
+   <td> CS</td>
+   <td> PYTHON </td>
+   <td> WT </td>
+   </tr> 
+   <tr>
+    <td> 1.00 TO 2.00</td>
+   <td colspan="5"> BREAK</td>
+
+   </tr>
+   <tr>
+    <td> 2.00 TO 3.00</td>
+   <td> MATHS</td>
+   <td>EG</td>
+   <td rowspan="2"> WT LAB</td>
+   <td> CS</td>
+   <td rowspan="2"> DLD LAB </td>
+
+   </tr> 
+   <tr>
+    <td> 3.00 TO 4.00</td>
+   <td rowspan="2"> PYTHON LAB</td>
+   <td>MATHS</td>
+   <td> DLD </td>
+
+   </tr> 
+   <tr>
+    <td> 4.00 TO 5.00</td>
+   <td>WT</td>
+   <td> ----</td>
+   <td> ---- </td>
+   <td> ---- </td>
+   
+   </tr>
+</h2> 
+</table>
+
+<h2 style="text-align: center;color: black;">Subject Summary Details </h2>
+<h2>
+<table>
+<th> Course Code</th>
+<th> Course Name</th>
+<th> Credits</th>
+<th> Name of Faculty</th>
+<tr>
+<td>CS193</td>
+<td>Problem solving Using Python (PYTHON)</td>
+<td>2</td>
+<td>Dr Ashish Jani (AJ)</td>
+</tr>
+<tr>
+    <td>CS194</td>
+    <td>Problem solving Using Python Laboratry (PYTHON LAB)</td>
+    <td>2</td>
+    <td>Ms. Rhydham suthar (TA)</td>
+    </tr>
+    <tr>
+        <td>CS154</td>
+        <td>Engineering Mathematics-II</td>
+        <td>3</td>
+        <td>Prof. Shardav Bhatt (SB)</td>
+        </tr>
+        <tr>
+            <td>COM204</td>
+            <td>Communication Skills (CS)</td>
+            <td>2</td>
+            <td>Dr. Mandira Sikdar (MS)</td>
+            </tr>
+ <tr>
+     <td>CS157</td>
+    <td>Web Technology (WT)</td>
+    <td>2</td>
+    <td>Prof. Sushma Vankheda (SV)</td>
+  </tr>
+  <tr>
+    <td>CS158</td>
+   <td>Web Technology Laboratry (WT LAB)</td>
+   <td>1</td>
+   <td>Prof. Sushma Vankheda (SV)</td>
+ </tr>               
+ <tr>
+    <td>CS234</td>
+   <td>Digital Logic Design (DLD)</td>
+   <td>3</td>
+   <td>Prof. Hetal Desai (HD) / Prof. Yogesh Chaudhari (YC)</td>
+ </tr> 
+ <tr>
+    <td>CMP210</td>
+   <td>Digital Logic Design Laboratry (DLD LAB)</td>
+   <td>1</td>
+   <td>Prof. Yogesh Chaudhari (YC)</td>
+ </tr>         
+ <tr>
+    <td>ENG201</td>
+   <td>Engineering Graphics (EG)</td>
+   <td>2.5</td>
+   <td>Prof. Adil Khan (AK) / Prof. Hiral Parekh (HP) / Prof. Viren Parikh (VP)</td>
+ </tr>
+</table>
+
+
+
+
+
+
+
+</body>
+</html>
